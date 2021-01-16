@@ -1,0 +1,15 @@
+{
+  "name": "@ixo/cosmosjs-ixo-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "ISC",
+  "peerDependencies": {
+    "@cosmostation/cosmosjs": "^0.8.0"
+  },
+  "dependencies": {
+    "bech32": "^1.1.4",
+    "bip39": "^3.0.3",
+    "bs58": "^4.0.1",
+    "sovrin-did": "^1.4.0"
+  }
+}
